@@ -1,0 +1,18 @@
+[project]
+name = "pixeltable-research-agent-memory"
+version = "0.1.0"
+description = "Durable, searchable long-term memory for an AI research assistant: per-user semantic recall, retrieval_udf lookups, tool calling and memory consolidation with custom aggregates - built with Pixeltable"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "Apache-2.0"
+authors = [{ name = "Pierre Brunelle" }]
+keywords = ["pixeltable", "multimodal", "ai", "computed-columns", "data-infrastructure", "research-agent-memory"]
+dependencies = [
+    "pixeltable>=0.7.16",
+    "openai>=3",
+]
+
+[project.urls]
+Homepage = "https://pixeltable.com"
+Documentation = "https://docs.pixeltable.com"
+Pixeltable = "https://github.com/pixeltable/pixeltable"

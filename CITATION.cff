@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use or adapt this example app, please cite it using these metadata."
+type: software
+title: "Research Agent Memory RAG agent built with Pixeltable"
+abstract: "Durable, searchable long-term memory for an AI research assistant: per-user semantic recall, retrieval_udf lookups, tool calling and memory consolidation with custom aggregates."
+authors:
+  - given-names: "Pierre"
+    family-names: "Brunelle"
+repository-code: "https://github.com/pierrebrunelle/pixeltable-research-agent-memory"
+url: "https://pierrebrunelle.github.io/awesome-pixeltable-apps/"
+license: Apache-2.0
+version: "0.1.0"
+date-released: 2026-10-15
+keywords:
+  - "pixeltable"
+  - "pixeltable-example"
+  - "python"
+  - "ai-agents"
+  - "rag"
+  - "llm-memory"
+  - "openai"
+  - "vector-search"
+  - "multimodal"
+  - "ai"

@@ -1,0 +1,42 @@
+[
+ {
+  "source_id": "S-01",
+  "title": "Attention Is All You Need",
+  "kind": "paper",
+  "year": 2017,
+  "url": "https://arxiv.org/abs/1706.03762",
+  "cover": "data/cover_S-01.png"
+ },
+ {
+  "source_id": "S-02",
+  "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+  "kind": "paper",
+  "year": 2020,
+  "url": "https://arxiv.org/abs/2005.11401",
+  "cover": "data/cover_S-02.png"
+ },
+ {
+  "source_id": "S-03",
+  "title": "MemGPT: Towards LLMs as Operating Systems",
+  "kind": "paper",
+  "year": 2023,
+  "url": "https://arxiv.org/abs/2310.08560",
+  "cover": "data/cover_S-03.png"
+ },
+ {
+  "source_id": "S-04",
+  "title": "Generative Agents: Interactive Simulacra of Human Behavior",
+  "kind": "paper",
+  "year": 2023,
+  "url": "https://arxiv.org/abs/2304.03442",
+  "cover": "data/cover_S-04.png"
+ },
+ {
+  "source_id": "S-05",
+  "title": "Lab notebook: reranker ablation",
+  "kind": "note",
+  "year": 2026,
+  "url": null,
+  "cover": null
+ }
+]

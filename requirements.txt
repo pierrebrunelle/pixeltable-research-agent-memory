@@ -1,0 +1,2 @@
+pixeltable>=0.7.16
+openai>=3

@@ -1,0 +1,74 @@
+[
+ {
+  "user_id": "ada",
+  "kind": "preference",
+  "content": "Ada prefers short answers with one citation per claim",
+  "importance": 3,
+  "created_at": "2026-08-01T10:00:00",
+  "source_id": null
+ },
+ {
+  "user_id": "ada",
+  "kind": "fact",
+  "content": "Ada is writing a survey chapter on long-term memory for LLM agents, due November 30",
+  "importance": 5,
+  "created_at": "2026-09-02T09:00:00",
+  "source_id": null
+ },
+ {
+  "user_id": "ada",
+  "kind": "fact",
+  "content": "MemGPT pages memory between a small context window and an external store",
+  "importance": 4,
+  "created_at": "2026-09-10T14:00:00",
+  "source_id": "S-03"
+ },
+ {
+  "user_id": "ada",
+  "kind": "fact",
+  "content": "Generative Agents rank memories by recency, importance and relevance",
+  "importance": 4,
+  "created_at": "2026-09-12T16:30:00",
+  "source_id": "S-04"
+ },
+ {
+  "user_id": "ada",
+  "kind": "episode",
+  "content": "Ada asked to compare RAG with fine-tuning for a legal QA prototype",
+  "importance": 2,
+  "created_at": "2026-09-20T11:00:00",
+  "source_id": "S-02"
+ },
+ {
+  "user_id": "ada",
+  "kind": "preference",
+  "content": "Ada wants papers before 2018 flagged as background reading",
+  "importance": 2,
+  "created_at": "2026-10-01T08:15:00",
+  "source_id": null
+ },
+ {
+  "user_id": "lin",
+  "kind": "fact",
+  "content": "Lin runs reranker ablations on the BEIR benchmark",
+  "importance": 4,
+  "created_at": "2026-09-05T13:00:00",
+  "source_id": "S-05"
+ },
+ {
+  "user_id": "lin",
+  "kind": "preference",
+  "content": "Lin prefers code snippets in Python over pseudocode",
+  "importance": 3,
+  "created_at": "2026-09-06T09:30:00",
+  "source_id": null
+ },
+ {
+  "user_id": "lin",
+  "kind": "episode",
+  "content": "Lin found that a cross-encoder reranker added 40 ms per query",
+  "importance": 3,
+  "created_at": "2026-10-03T17:45:00",
+  "source_id": "S-05"
+ }
+]
